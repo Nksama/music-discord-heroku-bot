@@ -74,7 +74,7 @@ If you are not a developer all you have to is to copy my pre-coded project and y
 click this button.
 Add the copied tokens and prefix.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrsmook/music-discord-heroku-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nksama/music-discord-heroku-bot/tree/master)
 
 ![Make your own music Discord bot for FREE](/assets/img/contents/discord-tutorial-10.png "Make your own music Discord bot for FREE")
 
@@ -88,8 +88,15 @@ Finally click on more and restart all dynos
 
 ![Make your own music Discord bot for FREE](/assets/img/contents/discord-tutorial-9.png "Make your own music Discord bot for FREE")
 
-Now you cant test your bot with any command
-> play justin bieber baby
+Now you cant test your bot with the prefix You gave in Heroku
+If u gave / try commands
+/play Nf lie
+/stop
+/resume
+/skip
+/volume
+
+(Note not only / give the prefix u gave in heroku
 
 if you liked the tutorial you can **support me** by :
 
